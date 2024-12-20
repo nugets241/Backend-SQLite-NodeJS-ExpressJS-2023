@@ -4,9 +4,7 @@ This repository contains a Node.js application that implements a RESTful API usi
 
 ## Structure
 
-- `/project`: Contains the Node.js application. This application is a RESTful API that allows for operations like retrieving, adding, updating, and deleting user data. It uses SQLite as the database. Refer to the README inside the project directory for detailed information.
-
-- `/sql`: Contains SQL scripts for setting up the database, inserting sample data, and other database operations. Refer to the README inside the sql directory for instructions on using these scripts.
+- `/project`: Contains the Node.js application. This application is a RESTful API that allows for operations like retrieving, adding, updating, and deleting user data. It uses SQLite as the database. This directory also includes `project.pdf`, which contains the project report or documentation explaining the project with code snippets and other relevant information. Refer to the README inside the project directory for detailed information.
 
 - `/ExerciseSolutionsSQLite`: Contains SQL scripts that are solutions to various SQL exercises.
 
@@ -34,3 +32,4 @@ sqlite3 database.db < ExerciseSolutionsSQLite/<script>.sql
 ```
 
 Please note that these operations will directly affect the database and cannot be undone. Always ensure to have a backup of your data.
+
