@@ -1,4 +1,4 @@
-# Back-End Development with SQLite, Node.js, and Express.js 2023
+#  Nodejs Sqlite Rest Api 2023
 
 This repository contains a Node.js application that implements a RESTful API using SQLite, along with a collection of SQL scripts for database management and exercise solutions.
 
